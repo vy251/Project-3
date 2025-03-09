@@ -1,0 +1,252 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container1{
+    background-color: #172937;
+    height:350px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+.right {
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+    margin-right: 10px;
+    min-width: 400px;
+}
+.navitem{
+  margin-right:60px;
+  padding-top:6px;
+}
+.logo:hover{
+    color:rgb(0, 132, 255);
+}
+.navitem:hover{
+    color:rgb(0, 123, 255);
+}
+#resume{
+    height:20px;
+    width:80px;
+    border:2px solid rgba(255, 0, 0, 0.544);
+    padding:6px;
+    text-align:center;
+}
+.logo {
+    font-weight: bold;
+    color: #F2F2F2;
+    display: flex;
+    align-items: center;
+    font-weight: 600px;
+    padding-left: 6px;
+    margin-top:16px;
+    flex-grow: 1;
+}
+.icon{
+    background-color:white;
+    border-radius:50%;
+    height:25px;
+    width:25px;
+    margin-left:20px;
+    margin-top:16px;
+}
+.Description{
+    margin:70px;
+    margin-left:80px;
+    display:flex;
+}
+.Explorin{
+    color:#FF8153;
+}
+p{
+    margin-top:20px;
+    color:#F2F2F2CC;
+    width:500px;
+}
+h1{ 
+    
+    color:#FFFFFF;
+}
+h2{
+    margin-top:10px;
+    color:rgba(255, 255, 255, 0.808);
+}
+.circle{
+    border-radius:50%;
+    margin-left:100px;
+    background-color:#D9D9D9;
+    height:170px;
+    width:170px;
+}
+main{
+    background-color: rgba(255, 228, 196, 0.547);
+    height:1500px;
+}
+.container2{
+    font-size:25px;
+    text-align:center;
+    padding-top:20px;
+}
+.b1{
+    color:#172937;
+    font-weight:bolder;
+}
+.b2{
+    font-weight: bolder;
+    color:#FF8153;
+}
+.para{
+    color:black;
+    text-align:center;
+    margin-top:16px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* .skills-section{
+    background-color: rgba(255, 228, 196, 0.547);
+    height:100%;
+} */
+.img1{
+    margin:20px;
+    margin-left:305px;
+    height:175px;
+    width:800px;
+
+}
+.container3{
+    font-size:25px;
+    text-align:center;
+    padding-top:50px;
+}
+/* .Progress-section{
+    background-color: rgba(255, 228, 196, 0.547);
+    height:100%;
+} */
+.parent{
+    display:flex;
+    justify-content: center;
+}
+.linkedin{
+    background-color:#F37021;
+    color:white;
+    border:2px solid red;
+    height:30px;
+    width:180px;
+    padding-top:10px;
+    text-align:center;
+    margin-top:25px;
+}
+.img2{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    margin-top:25px;
+}
+.container4{
+    font-size:25px;
+    text-align:center;
+    padding-top:50px;
+}
+.container5{
+    font-size:25px;
+    text-align:center;
+    padding-top:50px;
+    color:#172937;
+    font-weight:bolder;
+}
+.pa{
+    color:black;
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contact-section{
+    background-color:#172937;
+    height:200px;
+    text-align:center;
+    font-size:30px;
+    font-weight:1000;
+    color:#F37021;
+}
+.con{
+   padding-top:35px;
+}
+.pf{
+    color:white;
+    font-size:16px;
+    margin-top:16px;
+    font-weight:500;
+}
+.base{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    margin-top:22px;
+}
+.Git{
+    border:1px solid #F37021;
+    height:25px;
+    width:100px;
+    font-size:16px;
+    display:flex;
+    justify-content: space-evenly;
+    text-align:center;
+    color:white;
+    padding:4px;
+    padding-top:6px;
+    font-weight:500;
+}
+.email{
+    border:1px solid #F37021;
+    display:flex;
+    justify-content: space-evenly;
+    height:25px;
+    width:180px;
+    text-align:center;
+    color:white;
+    font-size:16px;font-size:16px;
+    padding:4px;
+    padding-top:6px;
+    font-weight:500;
+}
+.img3{
+    width:20px;
+    height:20px;
+}
+.box{
+    gap:25px;
+}
+.box1{
+    height:80px;
+    width:250px;
+    border:2px solid white;
+    background-color:white;
+    margin-top:25px;
+    border-radius:6px 6px 6px 6px;
+}
+/* .parent box{
+    display:flex;
+} */
+ .year{
+    font-size:14px;
+    color:#F37021;
+    margin:2px;
+    padding-left:8px;
+ }
+ .course{
+    font-size:12px;
+    margin:2px;
+    padding-left:8px;
+ }
+ .Explore{
+   font-weight:bolder;
+   margin:2px;
+   padding-top:8px;
+   padding-left:8px;
+ }
+
+
